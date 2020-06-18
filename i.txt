@@ -1,2 +1,4 @@
  THis is my first line in somefeature
  This is my second line in somefeature
+ This is my third line in somefeature
+
